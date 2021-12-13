@@ -1,0 +1,12 @@
+{
+    "author":"rocketPHP",
+    "dirs":[
+        "public",
+        "rocket_modules",
+        "rocket_modules/core",
+        "rocket_modules/core/http"
+    ],
+    "files":{
+        "rocket_modules/core/test.php":"/test.php"
+    }
+}
